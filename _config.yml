@@ -1,11 +1,11 @@
 # Site settings
-title: "Rabiul Awal"
-SEOTitle: Rabiul Awal
+title: "Shuvo Islam Khan"
+SEOTitle: Shuvo Islam Khan
 header-img: ""
-email: rabiul.awal@mila.quebec
+email: shuvoislamkhan@gmail.com
 description: ""
-keyword: "rabiul awal, deep learning, multimodal learning, mila"
-url: "https://rabiul.me"              # your host, for absolute URL
+keyword: "shuvoislamkhan, deep learning, multimodal learning, mila"
+url: "https://shuvoamath.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-github_username:    rabiulcste
-twitter_username:   _rabiulawal
-linkedin_username:  rabiulawal
+github_username:    shuvoislamkhan
+twitter_username:   shuvoislamkhan_
+linkedin_username:  shuvoislamkhan
 resume_link: true
 
 
@@ -84,13 +84,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_domain: rabiul.me
+ga_domain: shuvoamath.github.io
 
 
 
 scholar:
-    first_name: Md Rabiul
-    last_name: Awal
+    first_name: Shuvo Islam
+    last_name: Khan
     source: /_bibliography/
     style: _csl/transactions-on-algorithms.csl
     ignore: ['url', 'doi']
